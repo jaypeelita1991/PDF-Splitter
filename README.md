@@ -17,8 +17,8 @@ A small Python command-line tool that splits a PDF into separate files, one per 
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/jaypeelita1991/PDF-Splitter.git
+cd PDF-Splitter
 pip install -r requirements.txt
 ```
 
